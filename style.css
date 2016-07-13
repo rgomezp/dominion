@@ -1,0 +1,95 @@
+body{
+  background-color: #eee;
+}
+
+
+.navbar a{
+  font-family: Trebuchet MS;
+  color: #0E233E;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li{
+  display: inline;
+}
+
+.navbar{
+  padding-top: 14px;
+  padding-bottom: 14px;
+  background-color: white;
+  margin: 0;
+}
+
+.jumbotron{
+  margin-bottom: 0;
+  background-size: 500px;
+  background-image:url('img/sunset hammers.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p{
+  font-family: 'Arial';
+  font-size: 22px;
+}
+
+h2{
+  font-family: 'Arial';
+}
+
+.more-info{
+  box-shadow: inset 0px 9px 19px -8px rgba(0,0,0,0.2);
+}
+
+.more-info .container{
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.graphic-1{
+  box-shadow: inset 0px 9px 19px -8px rgba(0,0,0,0.2);
+  padding: 40px;
+  background-color: white;
+}
+
+.graphic-2{
+  box-shadow: inset 0px 9px 19px -8px rgba(0,0,0,0.2);
+  padding: 60px;
+  background-color: white;
+
+}
+
+.graphic-3{
+  box-shadow: inset 0px 9px 19px -8px rgba(0,0,0,0.2);
+  padding: 80px;
+}
+
+.couches{
+  box-shadow: inset 0px 9px 19px -8px rgba(0,0,0,0.2);
+  padding:80px;
+}
+
+.footer{
+  padding-top: 60px;
+  background-color: #0e233e;
+  padding-bottom: 30px;
+}
+
+
+.footer a{
+  font-family: Arial;
+  font-weight: bold;
+  text-transform: uppercase;
+  color:white;
+  font-size: 16px;
+}
+
+.footer li{
+  text-align: center;
+  color: white;
+  list-style-type: none;
+  margin: 10px 0;
+}
