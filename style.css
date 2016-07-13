@@ -49,27 +49,20 @@ h2{
   padding-bottom: 30px;
 }
 
-.graphic-1{
+.about{
   box-shadow: inset 0px 9px 19px -8px rgba(0,0,0,0.2);
   padding: 40px;
   background-color: white;
 }
 
-.graphic-2{
+.mission-vision{
   box-shadow: inset 0px 9px 19px -8px rgba(0,0,0,0.2);
-  padding: 60px;
-  background-color: white;
-
 }
 
-.graphic-3{
+.prospects{
+  padding-top:50px;
   box-shadow: inset 0px 9px 19px -8px rgba(0,0,0,0.2);
-  padding: 80px;
-}
-
-.couches{
-  box-shadow: inset 0px 9px 19px -8px rgba(0,0,0,0.2);
-  padding:80px;
+  background-color:white;
 }
 
 .footer{
