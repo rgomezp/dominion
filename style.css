@@ -67,6 +67,14 @@ h2{
   box-shadow: inset 0px 9px 19px -8px rgba(0,0,0,0.2);
 }
 
+.contact{
+  box-shadow: inset 0px 9px 19px -8px rgba(0,0,0,0.2);
+}
+
+.team{
+  box-shadow: inset 0px 9px 19px -8px rgba(0,0,0,0.2);
+}
+
 .more-info .container{
   padding-top: 20px;
   padding-bottom: 30px;
