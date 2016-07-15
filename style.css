@@ -35,18 +35,21 @@ body{
   background-size: cover;
   text-align: center;
 }
-
+/*
 .jumbotron:before{
 	content: ' ';
     display: inline-block;
-    vertical-align: middle; /* vertical alignment of the inline element */
-    height: 100%;
-}
+    vertical-align: middle;
+}*/
 
-.jumbotainer {
-    display: inline-block;
-    vertical-align: middle;          /* vertical alignment of the inline element */
-    font: 16px/1 Arial, sans-serif;  /* reset the font property */
+.jumbotainer{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 500px;
+   height: auto;
+   margin-top: -150px;
+   margin-left: -250px;
 }
 
 p{
@@ -87,6 +90,7 @@ h2{
   padding-top: 60px;
   background-color: #0e233e;
   padding-bottom: 30px;
+  position-y: 1000;
 }
 
 .relationships{
