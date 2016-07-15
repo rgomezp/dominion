@@ -1,0 +1,128 @@
+body{
+  background-color: #eee;
+}
+
+.team{
+  background-color: white;
+}
+
+.navbar a{
+  font-family: Trebuchet MS;
+  color: #0E233E;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li{
+  display: inline;
+}
+
+.navbar{
+  padding-top: 14px;
+  padding-bottom: 14px;
+  background-color: white;
+  margin: 0;
+}
+
+.jumbotron img{
+  position: absolute;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+}
+
+.jumbotron{
+  height: 100vh;
+  margin-bottom: 0;
+  background-size: 500px;
+  background-image:url('img/sunset hammers.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+.vcenter{
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}
+
+.jumbotainer img{
+   width: 300px;
+   height: auto;
+}
+
+p{
+  font-family: 'Arial';
+  font-size: 22px;
+}
+
+h2{
+  font-family: 'Arial';
+}
+
+.more-info{
+  box-shadow: inset 0px 9px 19px -8px rgba(0,0,0,0.2);
+}
+
+.more-info .container{
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.about{
+  box-shadow: inset 0px 9px 19px -8px rgba(0,0,0,0.2);
+  padding: 40px;
+  background-color: white;
+}
+
+.mission-vision{
+  box-shadow: inset 0px 9px 19px -8px rgba(0,0,0,0.2);
+}
+
+.prospects{
+  padding-top:50px;
+  box-shadow: inset 0px 9px 19px -8px rgba(0,0,0,0.2);
+  background-color:white;
+}
+
+.footer{
+  padding-top: 60px;
+  background-color: #0e233e;
+  padding-bottom: 30px;
+  position-y: 1000;
+}
+
+.relationships{
+	box-shadow: inset 0px 9px 19px -8px rgba(0,0,0,0.2);
+	background-color: white;
+}
+
+.investments{
+	box-shadow: inset 0px 9px 19px -8px rgba(0,0,0,0.2);
+	background-color: #0e233e;
+}
+.image-block img{
+	padding: 25px;
+}
+
+.script-section{
+	box-shadow: inset 0px 9px 19px -8px rgba(0,0,0,0.2);
+}
+
+.footer a{
+  font-family: Arial;
+  font-weight: bold;
+  text-transform: uppercase;
+  color:white;
+  font-size: 16px;
+}
+
+.footer li{
+  text-align: center;
+  color: white;
+  list-style-type: none;
+  margin: 10px 0;
+}
