@@ -35,9 +35,7 @@ body{
   background-size: cover;
   text-align: center;
 }
-.jumbotainer{
-  padding-top: 15%;
-}
+
 .jumbotainer img{
    width: 300px;
    height: auto;
