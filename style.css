@@ -2,6 +2,9 @@ body{
   background-color: #eee;
 }
 
+.team{
+  background-color: white;
+}
 
 .navbar a{
   font-family: Trebuchet MS;
