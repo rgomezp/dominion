@@ -63,6 +63,12 @@ h2{
   font-family: 'Arial';
 }
 
+.disclaimer{
+    background-color: white;
+    box-shadow: inset 0px 9px 19px -8px rgba(0,0,0,0.2);
+
+}
+
 .more-info{
   box-shadow: inset 0px 9px 19px -8px rgba(0,0,0,0.2);
 }
